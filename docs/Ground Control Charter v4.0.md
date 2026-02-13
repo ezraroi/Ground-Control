@@ -2,7 +2,7 @@
 
 **Voice • Tone • UX Behavior • Theme Coherence**
 
-> **Foundation Documents:** For immutable definitions (hierarchy, states, relationships), see the [Constitution](./Ground_Control_Constitution.md). For implementation guidance (UX specs, guardrails, configuration), see the [Product Definition](./Product_Definition_Ground_Control_V4.md).
+> **Foundation Documents:** For immutable definitions (hierarchy, states, relationships), see the [Constitution](./Ground%20Control%20Constitution.md). For implementation guidance (UX specs, guardrails, configuration), see the [Product Definition](./Product%20Definition_%20Ground%20Control%20-%20V4.md).
 
 ---
 
@@ -87,7 +87,7 @@ Short, rare, warm.
 
 ## 3. Lexicon (Language Contract)
 
-> **For canonical state definitions** (Readiness, Circuit states, Badge levels), see [Constitution Sections 4-7](./Ground_Control_Constitution.md).
+> **For canonical state definitions** (Readiness, Circuit states, Badge levels), see [Constitution Sections 4-7](./Ground%20Control%20Constitution.md).
 
 This section defines **preferred terminology and phrasing** for user-facing copy.
 
@@ -131,7 +131,7 @@ These are separate concepts and must not be conflated in UI or documentation.
 
 **Momentum Display Principles (P-M1 through P-M9):**
 
-See [Product Definition Section 6 — Momentum Display Principles](./Product_Definition_Ground_Control_V4.md) for the full table. Key rules for copy/UX review:
+See [Product Definition Section 6 — Momentum Display Principles](./Product%20Definition_%20Ground%20Control%20-%20V4.md) for the full table. Key rules for copy/UX review:
 
 - **P-M2 Non-Competitive:** Momentum must never be sortable, rankable, or comparable between entities.
 - **P-M3 Inspectable:** Every Momentum number must be explainable in one hover/click (e.g., "3 active circuits x 10/day").
@@ -322,7 +322,7 @@ Before shipping UI/copy changes, confirm:
 
 ## 9. Product Language Reference
 
-> **For canonical state definitions and values**, see [Constitution Sections 6-7, 11](./Ground_Control_Constitution.md).
+> **For canonical state definitions and values**, see [Constitution Sections 6-7, 11](./Ground%20Control%20Constitution.md).
 
 ### View Names (Canonical)
 

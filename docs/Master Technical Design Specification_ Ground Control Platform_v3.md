@@ -1,6 +1,6 @@
 # Master Technical Design Specification: Ground Control Platform
 
-> **Foundation Documents:** This specification provides technical implementation details. For immutable core definitions (hierarchy, states, relationships), see the [Ground Control Constitution](./Ground_Control_Constitution.md). For product guidance (UX, guardrails, cultural intent), see the [Product Definition](./Product_Definition_Ground_Control_V4.md).
+> **Foundation Documents:** This specification provides technical implementation details. For immutable core definitions (hierarchy, states, relationships), see the [Ground Control Constitution](./Ground%20Control%20Constitution.md). For product guidance (UX, guardrails, cultural intent), see the [Product Definition](./Product%20Definition_%20Ground%20Control%20-%20V4.md).
 
 Always prefer long term right solution over quick wins or shortcuts. 
 

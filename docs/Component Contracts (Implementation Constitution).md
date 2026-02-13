@@ -1,6 +1,6 @@
 # Component Contracts (Implementation Constitution)
 
-> **Foundation Documents:** This specification defines component-level contracts for Ground Control implementation. For immutable core definitions, see the [Constitution](./Ground_Control_Constitution.md). For product guidance, see the [Product Definition](./Product_Definition_Ground_Control_V4.md). For technical architecture, see the [Technical Specification](./Master_Technical_Design_Specification_Ground_Control_Platform_v4.md).
+> **Foundation Documents:** This specification defines component-level contracts for Ground Control implementation. For immutable core definitions, see the [Constitution](./Ground%20Control%20Constitution.md). For product guidance, see the [Product Definition](./Product%20Definition_%20Ground%20Control%20-%20V4.md). For technical architecture, see the [Technical Specification](./Master%20Technical%20Design%20Specification_%20Ground%20Control%20Platform_v3.md).
 
 ---
 
@@ -428,7 +428,7 @@ The Enricher delegates to these focused components:
 
 # Achievement Type Derivation
 
-> **See [Constitution Section 4](./Ground_Control_Constitution.md#4-achievement-types) for canonical definitions.**
+> **See [Constitution Section 4](./Ground%20Control%20Constitution.md#4-achievement-types) for canonical definitions.**
 
 ### **Description** Achievement type (CORE vs CIRCUIT) is **derived from the check's `windowType`**, not from badge type or YAML declaration.
 
@@ -2044,7 +2044,7 @@ function deriveProtocolState(
 
 The Momentum system computes trajectory feedback from badge states. It is a full domain subsystem with its own calculator, history service, trajectory builder, and constants. Momentum is **secondary to readiness and upgrades** and must never be used for ranking.
 
-> **See [Constitution Section 9](./Ground_Control_Constitution.md#9-momentum-trajectory) for canonical Momentum definitions and guardrails.**
+> **See [Constitution Section 9](./Ground%20Control%20Constitution.md#9-momentum-trajectory) for canonical Momentum definitions and guardrails.**
 
 ---
 

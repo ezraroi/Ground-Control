@@ -1,6 +1,6 @@
 # Product Definition: Ground Control — V4
 
-> **Foundation Reference:** This document builds on the [Ground Control Constitution](./Ground_Control_Constitution.md), which defines immutable core concepts, terminology, and relationships. For definitions of Pillars, Rulepacks, Rules, Checks, Signals, Cores, Circuits, Readiness, and Momentum, consult the Constitution.
+> **Foundation Reference:** This document builds on the [Ground Control Constitution](./Ground%20Control%20Constitution.md), which defines immutable core concepts, terminology, and relationships. For definitions of Pillars, Rulepacks, Rules, Checks, Signals, Cores, Circuits, Readiness, and Momentum, consult the Constitution.
 
 ---
 
@@ -759,4 +759,4 @@ Trajectory/momentum visuals communicate improvement direction without alarm or c
 
 ---
 
-*This document defines implementation guidance for Ground Control. For immutable core definitions, see the [Ground Control Constitution](./Ground_Control_Constitution.md).*
+*This document defines implementation guidance for Ground Control. For immutable core definitions, see the [Ground Control Constitution](./Ground%20Control%20Constitution.md).*

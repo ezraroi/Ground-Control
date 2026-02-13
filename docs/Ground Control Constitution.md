@@ -4,7 +4,7 @@
 
 This document defines the core concepts, terminology, and relationships that form the foundation of Ground Control. These definitions are permanent and will not change—they define the essence of what Ground Control is and how it thinks about engineering excellence.
 
-> **Implementation guidance** (UX specs, guardrails, configuration details) lives in the [Product Definition](./Product_Definition_Ground_Control_V4.md).
+> **Implementation guidance** (UX specs, guardrails, configuration details) lives in the [Product Definition](./Product%20Definition_%20Ground%20Control%20-%20V4.md).
 
 ---
 
