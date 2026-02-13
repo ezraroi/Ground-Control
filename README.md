@@ -17,9 +17,15 @@ The speed didn't come from AI. It came from clarity. Over days of reflective con
 
 On day nineteen, I caught a surveillance violation -- a table that would let a VP screenshot it, paste it in Slack, and say "Team X, explain yourself." The AI helped me externalize exactly where the violations lived. But the signal was mine. The judgment was mine. AI is an amplifier. It takes whatever signal you feed it and makes it louder. Feed it clarity -- it amplifies clarity. Feed it confusion -- it amplifies confusion.
 
-**Read the full blog post:** [AI Made Me Faster. That Was the Problem.](https://medium.com/@TODO-LINK)
+**Read the full blog post:** [AI Made Me Faster. That Was the Problem.](https://aihumanity.substack.com/p/ai-made-me-faster-that-was-the-problem)
 
+---
 
+## Source Code Status
+
+The source code (84,000+ lines of TypeScript, 1,707 tests) was built on company infrastructure and is pending open-source approval from my company. Once approved, the full codebase will be published here.
+
+What's available now: the complete governance document hierarchy, architecture diagrams, screenshots, and domain model — the artifacts that made the build possible and that the blog post argues matter more than the code itself.
 
 ---
 
