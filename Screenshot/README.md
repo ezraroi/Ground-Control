@@ -113,3 +113,19 @@ Organization-level spotlight: "Secure the Perimeter." Shows the org focus with c
 Shows 7 services that are one upgrade away from Flight Ready. Includes readiness impact projection (0% today to 1% projected), coaching rationale ("These 7 services have done most of the work"), common blockers by rulepack, and per-service detail.
 
 ![Closest Wins](Screenshot%202026-02-13%20at%2013.16.54.png)
+
+---
+
+## Console Boot Sequence (Easter Egg)
+
+The developer console easter egg. On load, Ground Control prints a retro system boot: "GROUND CONTROL / SYSTEM CODEX v4.0" with status checks (Telemetry Stream ESTABLISHED, Coaching Protocol ACTIVE, Standards Transparency ONLINE, User Agent ENGINEER DETECTED) and a rotating Bowie lyric -- "The stars look very different today."
+
+![Console Boot Sequence](Screenshot%202026-02-13%20at%2017.04.48.png)
+
+---
+
+## Context Strip (FMA Annunciator)
+
+The Flight Mode Annunciator bar at the bottom of the viewport. Shows the currently active pillar filter ("Delivery Confidence") and its focus description ("Break Less"). This persistent strip provides context when a user has filtered the view, ensuring they always know which lens they are looking through.
+
+![Context Strip](Screenshot%202026-02-13%20at%2017.05.09.png)
