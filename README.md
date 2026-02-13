@@ -744,7 +744,7 @@ The amplifier is on. But so is something else -- something that has been waiting
 
 The principles that make AI collaboration powerful are the same principles that make human leadership work. Clear boundaries. Honest feedback. Constraints that liberate rather than restrict. Coaching, not surveillance. Even here.
 
-**Read the full blog post:** [AI Made Me Faster. That Was the Problem.](https://medium.com/@TODO-LINK)
+**Read the full blog post:** [AI Made Me Faster. That Was the Problem.](https://aihumanity.substack.com/p/ai-made-me-faster-that-was-the-problem)
 
 
 **Explore the governance documents:** [docs/](docs/)
